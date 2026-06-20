@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project predicts product sales at Big Mart outlets using machine learning. It analyzes historical sales data and builds predictive models to estimate future sales.   
+This project predicts product sales at Big Mart outlets using machine learning. It analyzes historical sales data and builds predictive models to estimate future sales.    
 
 ---
 
