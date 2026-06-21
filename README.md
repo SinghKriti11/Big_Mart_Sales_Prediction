@@ -19,7 +19,7 @@ Predict **Item_Outlet_Sales** using features like:
 ## 📊 Dataset
 
 * Big Mart Sales Dataset
-* Includes product-level and outlet-level information 
+* Includes product-level and outlet-level information  
 
 ---
 
