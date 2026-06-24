@@ -34,7 +34,7 @@ Predict **Item_Outlet_Sales** using features like:
 
 ## 🔄 Workflow
 
-### 1. Data Preprocessing
+### 1. Data Preprocessing 
 * Missing values handled:
 
   * Item Weight → Mean
