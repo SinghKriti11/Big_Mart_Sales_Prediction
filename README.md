@@ -8,7 +8,7 @@ This project predicts product sales at Big Mart outlets using machine learning. 
 
 ## 🎯 Problem Statement
 
-Predict **Item_Outlet_Sales** using features like:    
+Predict **Item_Outlet_Sales** using features like:     
 * Item type 
 * Visibility
 * MRP 
